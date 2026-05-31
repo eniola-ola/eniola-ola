@@ -4,7 +4,7 @@ A Data Analyst with a background in Client Management and a strong passion for t
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Revenue and Profit Analysis](....)
+- [Revenue and Profit Analysis](https://github.com/eniola-ola/Revenue-and-Profit)
 
 <h2>🛠️ Tools I work with:</h2>
   - Excel
