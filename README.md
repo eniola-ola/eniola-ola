@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Eniola! 
 
-<!--
-**eniola-ola/eniola-ola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Analyst with a background in Client Management and a strong passion for turning data into clear, actionable insights. I also enjoy <a href="https://writingsbyeni.blogspot.com">Creative Writing</a>, which helps me communicate findings in a simple and compelling way. 
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Revenue and Profit Analysis](....)
+
+<h2>🛠️ Tools I work with:</h2>
+  - Excel
+  - Power Bi
+  - Google worksheet
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="eniola-ola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="eniola-ola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/_eniolanrewaju/
+[linkedin]: https://linkedin.com/in/eniola-osifuye-23a25529b
