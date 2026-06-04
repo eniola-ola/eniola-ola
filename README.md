@@ -8,10 +8,11 @@ A Data Analyst with a background in Client Management and a strong passion for t
 - [Sales Report](https://github.com/eniola-ola/SALES-REPORT)
 
 <h2>🛠️ Tools I work with:</h2>
-  - Excel
-  - Power Bi
-  - SQL
-  - Google worksheet
+
+- Excel
+- Power Bi
+- SQL
+- Google worksheet
 
 <h2> 🤳 Connect with me:</h2>
 
