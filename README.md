@@ -10,6 +10,7 @@ A Data Analyst with a background in Client Management and a strong passion for t
 <h2>🛠️ Tools I work with:</h2>
   - Excel
   - Power Bi
+  - SQL
   - Google worksheet
 
 <h2> 🤳 Connect with me:</h2>
